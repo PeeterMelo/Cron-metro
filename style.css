@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #f4f4f4;
+}
+
+button {
+    background-color: cadetblue;
+    width: 100px;
+    padding: 5px;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 4px;
+}
+
+.cronometro {
+    height: 600px;
+    width: 70%;
+    padding: 25px;
+    background-color:darkkhaki;
+    border-radius: 343%;
+    border-color: black;
+    border-width: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
